@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "steamandwriter", "steamandw
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lofilepath", "lofilepath\lofilepath.vcxproj", "{33FD374A-264C-42E0-A91F-8DB34669BFB6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "manualexeption", "manualexeption\manualexeption.vcxproj", "{7F4D078F-243B-447F-A9A0-90C3172A9C72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{33FD374A-264C-42E0-A91F-8DB34669BFB6}.Release|x64.Build.0 = Release|x64
 		{33FD374A-264C-42E0-A91F-8DB34669BFB6}.Release|x86.ActiveCfg = Release|Win32
 		{33FD374A-264C-42E0-A91F-8DB34669BFB6}.Release|x86.Build.0 = Release|Win32
+		{7F4D078F-243B-447F-A9A0-90C3172A9C72}.Debug|x64.ActiveCfg = Debug|x64
+		{7F4D078F-243B-447F-A9A0-90C3172A9C72}.Debug|x64.Build.0 = Debug|x64
+		{7F4D078F-243B-447F-A9A0-90C3172A9C72}.Debug|x86.ActiveCfg = Debug|Win32
+		{7F4D078F-243B-447F-A9A0-90C3172A9C72}.Debug|x86.Build.0 = Debug|Win32
+		{7F4D078F-243B-447F-A9A0-90C3172A9C72}.Release|x64.ActiveCfg = Release|x64
+		{7F4D078F-243B-447F-A9A0-90C3172A9C72}.Release|x64.Build.0 = Release|x64
+		{7F4D078F-243B-447F-A9A0-90C3172A9C72}.Release|x86.ActiveCfg = Release|Win32
+		{7F4D078F-243B-447F-A9A0-90C3172A9C72}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
